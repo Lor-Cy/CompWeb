@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: Freddo Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8282/anatwebsite
+Data file = D:\wamp64\www\AnatWebsite/wp-content/uploads/2021/11/demo-content-import-file_2021-11-13__14-14-21.xml
+Widget file = not defined!
+Customizer file = D:\wamp64\www\AnatWebsite/wp-content/uploads/2021/11/demo-customizer-import-file_2021-11-13__14-14-21.dat
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
